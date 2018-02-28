@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Mariya BABENKO](https://up.htmlacademy.ru/htmlcss/20/user/168145).
-* Наставник: `Неизвестно`.
+* Наставник: [Елена Арутюнян](https://up.htmlacademy.ru/htmlcss/20/user/106442).
 
 ---
 
